@@ -5,7 +5,7 @@ My friend is a big fan of WOW, he ask me to build a tool to calculator the gold 
 
 ### How to use
 ###### en
-  1. `python WOW_GD.py [input_file.txt]`
+  1. `python WOW_GD.py input_file.txt`
 
     replace `input_file.txt` with your raw data file(the file export from MiDKP)
 
@@ -13,7 +13,7 @@ My friend is a big fan of WOW, he ask me to build a tool to calculator the gold 
   2. check the file in the current directory called result.txt
 
 ###### zh-CN
-  1. 键入命令 `python WOW_GD.py [input_file.txt]`
+  1. 键入命令 `python WOW_GD.py input_file.txt`
 
     将 `input_file.txt` 替换为你的原始数据文件名称(即从MiDKP中导出的txt标记文档)
 
