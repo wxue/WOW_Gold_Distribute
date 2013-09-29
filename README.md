@@ -1,9 +1,9 @@
 # WOW_Gold_Distribute
 
-### Motivation 
+## Motivation 
 My friend is a big fan of WOW, he ask me to build a tool to calculator the gold after their group mission. So here it is ...
 
-### How to use
+## How to use
 ###### en
   1. `python WOW_GD.py input_file.txt`
 
@@ -20,7 +20,7 @@ My friend is a big fan of WOW, he ask me to build a tool to calculator the gold 
 
   2. 查看此目录/文件夹中名为`result.txt`的文档，便是分配结果
 
-### Install Python
+## Install Python
 ###### en
 This simple script is written in Python. To use this tool you must have python installed. If you are a Linux or Mac user, you may already got that in your system, but if you are a MS Windows user, I'm afraid you have to install it first.
 
@@ -36,8 +36,11 @@ You can [download python here](https://ironpython.codeplex.com/releases/view/900
 [Python官网](http://www.python.org/).
 
 ##### Python Version: 2.7
+* Don't install 3.X for this, you should know python 2.X is not compatible with 3.X.
 
-### Tips
+* Python 2.X 与 3.X 并不完全兼容，然则请确认安装/使用对应的2.7版本python。
+
+## Tips
 ###### About Punish
 ###### en
 Make sure no one is punished to negative point(all points should be positive in total).
@@ -45,7 +48,7 @@ Make sure no one is punished to negative point(all points should be positive in 
 ###### zh-CN
 确保你记录MiDKP的时候没有队员惩罚到负值一下（即保证所有人的总得分都是正的，其实零也可以，但是何必呢，呵呵）。
 
-### Version
+## Version
 ##### v1.0
 * 2013/9/28
 
