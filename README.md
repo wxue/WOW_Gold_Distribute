@@ -1,7 +1,7 @@
 # WOW_Gold_Distribute
 
 ## Motivation 
-My friend is a big fan of WOW, he ask me to build a tool to calculator the gold after their group mission. So here it is ...
+My friend is a big fan of WOW, he ask me to build a tool to calculator the gold after their group battles and missions. So I spend half day to bring this out ...
 
 ## How to use
 ###### en
